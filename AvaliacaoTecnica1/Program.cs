@@ -86,7 +86,6 @@ namespace AvaliacaoTecnica1
         static void Main(string[] args)
         {
             Vendedor vendedor = new Vendedor();
-            //Produto produto = new Produto();
             List<Vendedor> vend = new List<Vendedor>();
             List<Produto> produto = new List<Produto>();
 
@@ -109,9 +108,7 @@ namespace AvaliacaoTecnica1
                 Console.WriteLine($"Digite o valor do produto {i + 1}: ");
                 double valor = double.Parse(Console.ReadLine());
 
-
                 produto.Add(new Produto(nomeProduto));
-
                 vend.Add(new Vendedor(valor));
 
                 vendedor.SomaVendas();
@@ -120,7 +117,6 @@ namespace AvaliacaoTecnica1
             }
             
             Console.WriteLine(vendedor.ToString());
-
         }
     }
 }
