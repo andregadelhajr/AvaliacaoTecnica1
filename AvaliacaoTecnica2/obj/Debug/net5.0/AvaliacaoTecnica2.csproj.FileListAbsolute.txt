@@ -3,3 +3,14 @@ C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTe
 C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.AssemblyInfoInputs.cache
 C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.AssemblyInfo.cs
 C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.csproj.CoreCompileInputs.cache
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.exe
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.deps.json
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.runtimeconfig.json
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.runtimeconfig.dev.json
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.dll
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\bin\Debug\net5.0\AvaliacaoTecnica2.pdb
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.dll
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\refint\AvaliacaoTecnica2.dll
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.pdb
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.genruntimeconfig.cache
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\ref\AvaliacaoTecnica2.dll
