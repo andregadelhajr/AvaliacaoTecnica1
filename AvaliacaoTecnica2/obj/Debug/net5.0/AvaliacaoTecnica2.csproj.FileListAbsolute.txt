@@ -1,0 +1,5 @@
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.csproj.AssemblyReference.cache
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.AssemblyInfoInputs.cache
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.AssemblyInfo.cs
+C:\Users\AptGadelhas\Desktop\Avaliação Tecnica 1\AvaliacaoTecnica1\AvaliacaoTecnica2\obj\Debug\net5.0\AvaliacaoTecnica2.csproj.CoreCompileInputs.cache
